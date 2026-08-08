@@ -30,7 +30,7 @@ pip install -r requirements.txt
 
 Run the application:
 
-streamlit run app.py
+streamlit run app.py or python -m streamlit run app.py
 
 The application will open in your web browser.
 
